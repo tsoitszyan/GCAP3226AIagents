@@ -37,7 +37,26 @@ Students will:
 1. **Draft Emails/Letters**: Formal enquiries to government departments
 2. **Impact Analysis**: How government responses will help their projects
 3. **Contingency Plan**: What to do if government doesn't provide data
-4. **Reflective Essay**: Document the experience (approx. 200 words)
+4. **Reflective Essay 2**: Document the experience (approximately 200 words)
+
+## Assignment Details
+
+- **Type**: Individual assignment
+- **Length**: Approximately 200 words (±20 words)
+- **Weighting**: Part of 20% for three reflective essays
+- **Deadline**: **17 October 2025, 11:00 PM**
+- **Submission**: Post to Moodle forum with GitHub links
+
+### Submission Requirements
+
+Students must submit to the Moodle forum (https://buelearning.hkbu.edu.hk/mod/forum/discuss.php?d=332661):
+
+1. Link to Reflective Essay 2 on GitHub
+2. Link to Jupyter notebook on GitHub  
+3. Link to government enquiry letter (if created)
+4. Any other relevant links
+
+**Important**: All links must be publicly accessible. Programming scripts will visit these links for AI-assisted grading.
 
 ## Getting Started
 

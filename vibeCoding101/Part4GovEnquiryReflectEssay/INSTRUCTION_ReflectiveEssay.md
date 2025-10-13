@@ -13,7 +13,7 @@ Read the following materials:
    - /workspaces/GCAP3226AIagents/00_Course_Materials/ (any relevant files)
 
 ## Process
-Write a reflective essay (approximately 200 words) that addresses:
+Write Reflective Essay 2 (approximately 200 words, ±20 acceptable) that addresses:
 
 ### Reflection Points
 
@@ -49,13 +49,40 @@ Write a reflective essay (approximately 200 words) that addresses:
 - Academic yet personal tone
 
 ## Output
-Save to:
-- /workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/reflective_essay_draft.md
+Create a reflective essay file at:
+`/workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/ReflectiveEssay2_[StudentName].md`
 
-Include:
-- Word count (aim for 200 ±20 words)
-- Date written
-- Your name (placeholder for student to fill in)
+### Submission Requirements
+
+**Deadline**: **17 October 2025, 11:00 PM**
+
+**Steps to Submit:**
+
+1. **Save essay as Markdown file** in Part4GovEnquiryReflectEssay/ folder
+2. **Commit and push to GitHub**:
+   ```bash
+   git add vibeCoding101/Part4GovEnquiryReflectEssay/
+   git commit -m "Complete Reflective Essay 2"
+   git push origin main
+   ```
+3. **Verify repository is public** and links are accessible
+4. **Post to Moodle forum**: https://buelearning.hkbu.edu.hk/mod/forum/discuss.php?d=332661
+   
+   Include:
+   - Link to your essay on GitHub
+   - Link to your Jupyter notebook
+   - Any other relevant links
+   - Confirm "All links are publicly accessible"
+
+**Important**: Programming scripts will visit your GitHub links for AI-assisted grading.
+
+### Format Requirements
+- Word count: Approximately 200 words (180-220 acceptable)
+- Use proper Markdown formatting (headings, paragraphs)
+- Include your name and date at the top
+- Focus on government enquiries and AI assistance
+
+---
 
 ---
 

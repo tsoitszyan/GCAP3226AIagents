@@ -5,8 +5,14 @@
 ### Task 1: Draft Government Enquiry
 Use the instruction file to have AI help you create a formal data request.
 
-### Task 2: Write Reflective Essay  
-Document your experience and learning (approx. 200 words).
+### Task 2: Write Reflective Essay 2
+Document your experience and learning about government enquiries and data access.
+
+**Key Details:**
+- **Length**: Approximately 200 words (±20 words)
+- **Topic**: Government enquiries and AI assistance
+- **Deadline**: **17 October 2025, 11:00 PM**
+- **Submission**: Moodle forum post with GitHub links
 
 ---
 
@@ -107,25 +113,33 @@ A: NO! Use it as inspiration but write your own based on YOUR project.
 
 ## Checklist Before Submission
 
-### Enquiry Letter:
-- [ ] Addressed to correct department
-- [ ] Clear subject line
-- [ ] Professional introduction
-- [ ] Specific data requests
-- [ ] Academic purpose explained
-- [ ] Contact information complete
-- [ ] Polite closing
-- [ ] Both letter and email formats
-
-### Reflective Essay:
-- [ ] Approximately 200 words
-- [ ] First-person perspective
-- [ ] Specific examples included
-- [ ] Critical reflection (not just description)
-- [ ] Addresses required topics
-- [ ] Clear structure
+### For Government Enquiry:
+- [ ] Addresses specific data needs
+- [ ] Identifies correct department
+- [ ] Explains academic purpose
+- [ ] Includes contact details
+- [ ] Professional tone throughout
 - [ ] Proofread for errors
-- [ ] Authentic voice
+
+### Reflective Essay 2:
+- [ ] Approximately 200 words (180-220 acceptable)
+- [ ] Saved as Markdown file in Part4GovEnquiryReflectEssay/
+- [ ] Addresses all key themes (see INSTRUCTION_ReflectiveEssay.md)
+- [ ] Uses first-person reflection
+- [ ] Includes specific examples from YOUR experience
+- [ ] Critical rather than descriptive
+- [ ] Proofread for errors
+
+### Git & Submission:
+- [ ] All files committed to Git
+- [ ] Changes pushed to GitHub (`git push origin main`)
+- [ ] Repository is public (not private)
+- [ ] Essay link is publicly accessible
+- [ ] Notebook link is publicly accessible
+- [ ] Moodle forum post completed with all links
+- [ ] Submitted before deadline: **17 Oct 2025, 11:00 PM**
+
+---
 
 ---
 
