@@ -1,0 +1,3 @@
+input:https://data.gov.hk/en-data/dataset/hk-censtatd-tablechart-110-01001
+Process:visit the link and context, find data
+output:generate readme file in the same folder to explain how the data can be retrieved by API in a non technical way. Finally, generate a CSV file for the population.

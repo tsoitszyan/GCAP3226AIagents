@@ -12,6 +12,6 @@ This data will support academic research and policy analysis. While open data pr
 
 Please reply to 23229101@life.hkbu.edu.hk if possible. Thank you very much for your assistance.
 
-Best regards,
+Yours Faithfully,
 Tsoi Tsz Yan
 Hong Kong Baptist University

@@ -18,6 +18,6 @@ Please contact me at 23229101@life.hkbu.edu.hk. I would appreciate a response wi
 Thank you for your attention.
 
 Yours Faithfully,
-Tsoi Tszyan
+Tsoi Tsz Yan
 Hong Kong Baptist University
 
